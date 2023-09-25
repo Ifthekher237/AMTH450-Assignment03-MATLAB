@@ -31,7 +31,7 @@ Feel free to explore the solutions and use the provided code as a reference for 
 You can access the solutions and code for each problem in the respective folders of this repository. Simply navigate to the problem of interest and find the detailed solution and MATLAB code (if applicable).
 
 ## Contributors
-- [Your Name]
+- [Ifthekher]
 
 If you have any questions or suggestions for improvements, please feel free to reach out.
 
